@@ -1,0 +1,30 @@
+.big-card{
+background-color:#f8d7da !important;
+}
+
+.big-card img{
+    border-radius: 25px !important;
+    box-shadow: 10px 0px 5px 10px palevioletred;
+}
+
+.head{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+#navbarNav ul li a:hover{
+    background-color: #f8d7da;
+    border-radius: 5px !important;
+}
+.active{
+    background-color: #f8d7da;
+    border-radius: 5px !important;
+    
+}
+.btn1{
+    box-shadow: 5px 0px 5px 5px rgb(249, 240, 240) !important;
+}
+.navbar-brand img{
+    border-radius: 15px !important;
+
+}
